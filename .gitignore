@@ -1,0 +1,8 @@
+node_modules
+*.idea/*
+.eslintrc.js
+dist
+.vscode
+tar2
+tar3
+school*
