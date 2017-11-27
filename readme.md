@@ -6,7 +6,7 @@ Frontend course -Web basics
 
 ### Exercises
 
-Just fetch the repo, and `//uncomment` the desired lines.
+Just fetch the repo and `//uncomment` the desired lines.
 
 **scripts:**
 ```javascript

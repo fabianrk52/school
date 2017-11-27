@@ -4,5 +4,5 @@ node_modules
 dist
 .vscode
 tar2
-tar3
+tar3/**
 school*
