@@ -3,6 +3,6 @@ node_modules
 .eslintrc.js
 dist
 .vscode
+ex3
 tar2
-tar3/**
-school*
+tar9/includes/js/main.js

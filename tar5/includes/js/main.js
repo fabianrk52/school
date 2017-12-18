@@ -38,18 +38,19 @@ console.error('b = ', b)
 */
 
 //#3.2
-/* 
+
 var a = 8;
 var b = 2;    
-(function () {
-    a = 10;
-    b = 5;
-    console.log('a + b = ', a + b)
-})();
-    
-console.log('a = ', a)
-console.log('b = ', b) 
-*/
+
+     (function () {
+        c = 10;
+        d = 5;
+        console.log('a + b = ', a + b)
+     })();
+
+console.log('c = ', c)
+console.log('d = ', d) 
+
 
 //#4
 /* 
@@ -68,7 +69,7 @@ setAllVals();
 
 
 //#5
-/* 
+
 var fullname = 'John Doe';
 var obj = {
     fullname: 'Colin Ihrig',
@@ -83,7 +84,7 @@ var obj = {
 console.log('1',obj.prop.getFullname());
 var test = obj.prop.getFullname;
 console.log('2',test()); 
-*/
+
 
 //#5.2
 /* 
